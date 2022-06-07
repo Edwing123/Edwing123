@@ -1,13 +1,12 @@
 # Hi, I’m @Edwing123
 
 <center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&center=true&height=80&vCenter=true&lines=Edwin+Garcia;Flutter+%26+Dart+learner;Go+learner;Web+Developer;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&center=true&height=80&vCenter=true&lines=Edwin+Garcia;Go+learner;Web+Developer;Software+Engineer" />
 </center>
 
 ## My interests ❤✌🔥
 - Web Development with JavaScript and TypeScript.
 - I’m learning Web Development technologies.
-- A Flutter & Dart beginner.
 - Learning Go for server side development.
 
 ## My Github stats 🕸💻
