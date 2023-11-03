@@ -1,13 +1,13 @@
 # Hi, I’m @Edwing123
 
 <center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&center=true&height=80&vCenter=true&lines=Edwin+Garcia;Go+learner;Web+Developer;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&center=true&height=80&vCenter=true&lines=Edwin+Garcia;Web+Developer;Software+Engineer" />
 </center>
 
 ## My interests ❤✌🔥
-- Web Development with JavaScript and TypeScript.
-- I’m learning Web Development technologies.
-- Learning Go for server side development.
+- Web Development.
+- Systems programming.
+- Databases.
 
 ## My Github stats 🕸💻
 [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwing123&show_icons=true&theme=tokyonight)](https://github.com/Edwing123#)
